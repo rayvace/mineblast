@@ -1,0 +1,27 @@
+{
+  "name": "mineblast",
+  "version": "1.0.0",
+  "description": "An program that finds a mine in a field of mines that triggers the greatest number of additional mines.",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayvace/mineblast.git"
+  },
+  "keywords": [
+    "html5",
+    "canvas"
+  ],
+  "author": "rayvace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayvace/mineblast/issues"
+  },
+  "homepage": "https://github.com/rayvace/mineblast"
+}

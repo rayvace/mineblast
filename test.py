@@ -3,7 +3,7 @@ from maximpact import MaxImpact
 import unittest
 
 
-class TestLogestChain(unittest.TestCase):
+class TestMaxImpact(unittest.TestCase):
 
     def setUp(self):
         self.mi = MaxImpact([{'x': 0, 'y': 0, 'r': 0}])
